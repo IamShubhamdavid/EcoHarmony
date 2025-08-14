@@ -3,13 +3,8 @@ EcoSynergy is a multi-stakeholder collaboration platform for climate action, mar
 
 Key Features
 🌍 Multi-Stakeholder Collaboration Portal
-
 📱 Crowdsourced Environmental Data Collection
-
 🗺️ Real-Time Environmental Dashboards
-
 📊 Sustainability Scorecards & SDG Tracking
-
 🎓 Educational Resources & Engagement Tools
-
 🔗 Open Data API Integrations
